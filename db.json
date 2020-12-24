@@ -1,0 +1,27 @@
+[
+    {
+        "Codigo": "1",
+        "Dato": null,
+        "Descripcion": "Pollo Beneficiado"
+    },
+    {
+        "Codigo": "11",
+        "Dato": null,
+        "Descripcion": "Pollo Vivo"
+    },
+    {
+        "Codigo": "13",
+        "Dato": null,
+        "Descripcion": "Tina"
+    },
+    {
+        "Codigo": "3",
+        "Dato": null,
+        "Descripcion": "Pollo Brasa"
+    },
+    {
+        "Codigo": "4",
+        "Dato": null,
+        "Descripcion": "Gallina"
+    }
+]
